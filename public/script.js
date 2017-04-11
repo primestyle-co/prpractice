@@ -6,3 +6,4 @@ function hoge(mystr) {
   return "fuga" + mystr;
 }
 
+hoge(foo);

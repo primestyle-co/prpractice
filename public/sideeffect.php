@@ -1,8 +1,8 @@
 <?php
-require ('./review.php');
+require('./review.php');
 $foo = new Foo();
 
 if ($foo->lorem()) {
-  echo 'ipsam';
+    echo 'ipsam';
 }
 $foo->hoge();
